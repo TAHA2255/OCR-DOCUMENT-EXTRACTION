@@ -1,5 +1,4 @@
 # Document OCR Extraction Web App
-![ocr1](https://github.com/user-attachments/assets/dfda034e-caaa-4c78-b5f2-83802db7d2ed)
 ![ocr2](https://github.com/user-attachments/assets/c3ac592d-4ca5-4d4c-bbf9-f26e406a5ecc)
 ![ocr3](https://github.com/user-attachments/assets/5703081d-db11-40cd-9548-1e296ffde8f0)
 ![ocr4](https://github.com/user-attachments/assets/94c4fc95-a141-4958-b787-e80e3ef3fb43)
